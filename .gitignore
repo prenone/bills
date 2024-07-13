@@ -1,0 +1,4 @@
+.env
+*.tar
+attachments
+attachments_censored

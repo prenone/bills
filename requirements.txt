@@ -1,0 +1,5 @@
+imaplib2
+pymupdf
+requests
+Pillow
+schedule
